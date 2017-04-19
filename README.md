@@ -1,1 +1,1 @@
-# gestionar_menu_administrador_wordpress
+Codigos para Ocultar, EDitar y Agregar botones a nuestro menú del administrador de Wordpress.
